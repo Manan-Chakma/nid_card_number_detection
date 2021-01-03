@@ -1,1 +1,2 @@
-# nid_card_number_detection
+# NID card number detection
+Using simple image processing operations, nid card number is detected. 
